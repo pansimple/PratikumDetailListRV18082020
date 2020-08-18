@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Movie Popular by PARARIJIYO</string>
+    <string name="deskripsi_movie">Sinopsis</string>
+    <string name="ini_judul_movie">Judul Movie</string>
+</resources>
